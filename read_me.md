@@ -1,1 +1,0 @@
-This is global code summer program
